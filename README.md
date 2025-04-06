@@ -8,24 +8,18 @@
   <img 
     align="center" 
     alt="GitHub Stats" 
-    height="200" 
+    height="190" 
     src="https://github-readme-stats.vercel.app/api?username=Rangelzin&show_icons=true&theme=tokyonight&include_all_commits=true" 
   />
 <img 
       align="center" 
       alt="GitHub Stats" 
-      height="200" 
+      height="190" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rangelzin&theme=tokyonight&layout=compact" 
   />
 </p>
 
 ## My Skills
-
-&nbsp;
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="600px" align="right" alt="Computador iuriCode">
-
-&nbsp;
 
 
 #### Main Stack:
@@ -37,6 +31,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computador iuriCode">
 
 #### Secondary Stack:
 
