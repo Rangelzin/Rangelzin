@@ -1,4 +1,6 @@
-# Olá, eu sou Victor Rangel! 👋
+# Hello, I'm Victor Rangel! 👋
+
+&nbsp;
 
 <p align="center" style="margin-bottom:10px; padding: 10px" >I'm a Software Engineering Student for UFG <img width=10% align="center" src="https://files.cercomp.ufg.br/weby/up/1/o/UFG_branco.png"/> <br><br>Software engineer with a passion for solving complex problems through technology. I like to balance my career between technical skills and efficiency, so I'm looking for experience coordinating projects, analyzing and continuously improving software, integrating all of this with the fundamentals of agile and quality development.</p>
 &nbsp;
