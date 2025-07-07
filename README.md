@@ -11,7 +11,7 @@
   <img 
     align="center" 
     alt="Estatísticas do GitHub" 
-    height="190" 
+    height="170" 
     src="https://github-readme-stats.vercel.app/api?username=Rangelzin&show_icons=true&theme=tokyonight&include_all_commits=true" 
   />
   <img 
