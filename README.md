@@ -32,17 +32,17 @@
 
 #### Main Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=go,js,tailwind,html,css,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,go,js,git,tailwind,html,css)](https://skillicons.dev)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350px" align="right" alt="Computador iuriCode">
 
 #### Secondary Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=react,java,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,python,c,r)](https://skillicons.dev)
 
 #### Studying in this moment:
 
-[![My Skills](https://skillicons.dev/icons?i=spring,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,typescript)](https://skillicons.dev)
 
 
 #### Databases:
@@ -54,18 +54,12 @@
 
 ## 💻  Workstation Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,ubuntu,linux,postman,docker,figma,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,linux,postman,docker,figma,github)](https://skillicons.dev)
 
 &nbsp;
 
 ## 📫 Contacts:
 
-<div> 
-<a href="https://www.instagram.com/rangel_zz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href = "victorrangeltasse85@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a> 
-<a href="https://www.linkedin.com/in/rangel-zz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href = "rangelvictor@discente.ufg.br"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/rangel_zz/) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rangel-zz/) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:victorrangeltasse@gmail.com)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
