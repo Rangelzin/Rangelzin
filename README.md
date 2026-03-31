@@ -7,26 +7,6 @@
 <p align="center" style="margin-bottom:10px; padding: 10px" >I'm a Software Engineering Student for UFG <img width=10% align="center" src="https://files.cercomp.ufg.br/weby/up/1/o/UFG_branco.png"/> <br><br>Software engineer with a passion for solving complex problems through technology. I like to balance my career between technical skills and efficiency, so I'm looking for experience coordinating projects, analyzing and continuously improving software, integrating all of this with the fundamentals of agile and quality development.</p>
 &nbsp;
 
-## 📊 My Stats
-
-&nbsp;
-
-<p align="center">
-  <img 
-    align="center" 
-    alt="Estatísticas do GitHub" 
-    height="165" 
-    src="https://github-readme-stats.vercel.app/api?username=Rangelzin&show_icons=true&theme=tokyonight&include_all_commits=true" 
-  />
-  <img 
-    align="center" 
-    alt="Linguagens Mais Usadas" 
-    height="190" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rangelzin&theme=tokyonight&layout=compact" 
-  />
-</p>
-
-&nbsp;
 
 ## 🛠️ My Skills
 
